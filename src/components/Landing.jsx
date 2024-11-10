@@ -12,7 +12,7 @@ export const Landing = () => {
         }}
         className="w-full m-auto flex flex-col justify-center items-center lg:items-start bg-cover text-center lg:text-left select-none"
       >
-        <div className="relative w-full lg:w-1/2 min-h-dvh bg-white/90 backdrop-blur-sm flex flex-col justify-center items-center lg:items-start">
+        <div className="relative w-full lg:w-1/2 min-h-dvh bg-white/90 backdrop-blur-md flex flex-col justify-center items-center lg:items-start">
           <div className="w-full flex flex-col justify-center items-center lg:items-start gap-4 px-8">
             <h1 className="text-xl md:text-2xl font-bold absolute left-4 top-2 flex justify-start items-center gap-2">
               <span>
