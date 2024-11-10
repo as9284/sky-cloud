@@ -3,7 +3,7 @@ import React from "react";
 export const Privacy = () => {
   return (
     <>
-      <div className="relative w-full min-h-dvh m-auto bg-cover flex flex-col justify-center items-center select-none text-center">
+      <div className="relative w-full min-h-[50dvh] m-auto bg-cover flex flex-col justify-center items-center select-none text-center">
         <div
           style={{
             backgroundColor: "#ffffff",

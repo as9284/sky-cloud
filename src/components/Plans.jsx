@@ -6,7 +6,7 @@ export const Plans = () => {
     <>
       <div
         id="plans"
-        className="relative w-full min-h-dvh m-auto bg-cover flex flex-col justify-center items-center select-none"
+        className="relative w-full min-h-[50dvh] m-auto bg-cover flex flex-col justify-center items-center select-none"
       >
         <div
           style={{
