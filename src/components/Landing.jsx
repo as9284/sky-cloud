@@ -11,10 +11,10 @@ export const Landing = () => {
         style={{
           backgroundImage: `url(${ServerBg})`,
         }}
-        className="w-full m-auto flex flex-col justify-center items-center lg:items-start bg-cover text-center lg:text-left select-none"
+        className="w-full m-auto flex flex-col justify-center items-center xl:items-start bg-cover text-center xl:text-left select-none"
       >
-        <div className="relative w-full lg:w-1/2 min-h-dvh bg-white/85 backdrop-blur-md flex flex-col justify-center items-center lg:items-start">
-          <div className="w-full flex flex-col justify-center items-center lg:items-start gap-4 px-8">
+        <div className="relative w-full xl:w-1/2 min-h-dvh bg-white/85 backdrop-blur-md flex flex-col justify-center items-center xl:items-start">
+          <div className="w-full flex flex-col justify-center items-center xl:items-start gap-4 px-8">
             <h1 className="text-xl md:text-2xl font-bold absolute left-4 top-2 flex justify-start items-center gap-2">
               <span>
                 <SiGooglecloudstorage />
