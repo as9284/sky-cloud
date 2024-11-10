@@ -4,6 +4,12 @@
 
 @layer base {
   body {
-    @apply font-inter bg-neutral-100;
+    @apply font-inter;
+  }
+}
+
+@layer components {
+  .feature-icon {
+    @apply absolute top-6 w-16 h-14 rounded-full text-neutral-700 flex justify-center items-center text-5xl;
   }
 }
