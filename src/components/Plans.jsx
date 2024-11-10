@@ -4,7 +4,10 @@ import { IoIosCheckmarkCircle } from "react-icons/io";
 export const Plans = () => {
   return (
     <>
-      <div className="relative w-full min-h-dvh m-auto bg-cover flex flex-col justify-center items-center select-none">
+      <div
+        id="plans"
+        className="relative w-full min-h-dvh m-auto bg-cover flex flex-col justify-center items-center select-none"
+      >
         <div
           style={{
             backgroundColor: "#ffffff",
