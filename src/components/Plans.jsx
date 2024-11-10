@@ -77,7 +77,7 @@ export const Plans = () => {
               </button>
             </div>
 
-            <div className="relative w-96 h-[32rem] bg-white border-[3px] border-neutral-900 drop-shadow-md flex flex-col justify-start items-center p-4 scale-105 hover:scale-[1.07] duration-200">
+            <div className="relative w-96 h-[32rem] bg-white border-[3px] border-neutral-900 drop-shadow-md flex flex-col justify-start items-center p-4 hover:scale-[1.02] duration-200">
               <div className="w-full flex flex-col justify-center items-center">
                 <h3 className="text-lg font-semibold text-neutral-600 py-2">
                   Standard
