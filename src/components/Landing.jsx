@@ -27,7 +27,7 @@ export const Landing = () => {
               Offering secure, scalable cloud storage solutions for seamless
               data management and reliable access anytime, anywhere.
             </p>
-            <button className="w-52 h-16 mt-4 bg-neutral-900 text-neutral-200 font-semibold hover:bg-neutral-700 duration-300">
+            <button className="w-52 h-16 mt-4 bg-neutral-900 text-neutral-200 font-semibold hover:bg-neutral-700 focus:bg-neutral-700 active:scale-95 duration-200">
               Explore our plans
             </button>
           </div>
