@@ -15,11 +15,9 @@ export const Features = () => {
             backgroundPosition: "0 0,10px 10px",
           }}
           className="absolute inset-0 w-full h-full z-0"
-        ></div>
+        />
         <div className="relative w-full flex flex-col justify-center items-center p-8 z-10">
-          <p className="w-28 h-8 flex flex-col justify-center items-center text-neutral-700 bg-neutral-700/25 rounded-full text-center text-sm font-bold mb-4">
-            Features
-          </p>
+          <p className="feature-tag">Features</p>
           <h2 className="w-full text-4xl md:text-5xl font-bold text-neutral-900 mb-4 md:mb-12">
             Our main features.
           </h2>
