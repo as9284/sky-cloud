@@ -10,7 +10,7 @@ export const Faq = () => {
   }));
 
   return (
-    <div className="relative w-full min-h-[50dvh] m-auto bg-cover flex flex-col justify-center items-center select-none">
+    <div className="relative w-full min-h-[70dvh] m-auto bg-cover flex flex-col justify-center items-center select-none">
       <div
         style={{
           backgroundColor: "#ffffff",
