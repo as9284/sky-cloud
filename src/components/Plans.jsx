@@ -57,7 +57,7 @@ export const Plans = () => {
                   <span>
                     <IoIosCheckmarkCircle />
                   </span>
-                  Standard encryption
+                  End-to-end encryption with 2FA
                 </p>
                 <p className="plan-text">
                   <span>
@@ -111,7 +111,7 @@ export const Plans = () => {
                   <span>
                     <IoIosCheckmarkCircle />
                   </span>
-                  Advanced encryption with 2FA
+                  End-to-end encryption with 2FA
                 </p>
                 <p className="plan-text">
                   <span>
